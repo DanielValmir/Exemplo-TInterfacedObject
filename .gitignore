@@ -1,0 +1,18 @@
+# Compilados e binarios Delphi
+*.dcu
+*.dcp
+*.exe
+*.res
+*.map
+*.local
+
+# Projeto console (apenas referencia local — nao faz parte do repo)
+InterfaceExemplo.dpr
+InterfaceExemplo.dproj
+
+# Historico da IDE e ferramentas locais
+__history/
+.vscode/
+GTAGS
+GRTAGS
+GPATH
